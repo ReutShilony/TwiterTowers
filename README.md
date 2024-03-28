@@ -9,6 +9,7 @@ This program provides functionality to calculate the area and perimeter of recta
 4. [Main Class](#main-class)
 5. [How to Use](#how-to-use)
 6. [Dependencies](#dependencies)
+7. [Examples](#examples)
 
 ## Introduction
 This Java program consists of three classes: `Tower`, `RectangularTower`, and `TriangleTower`. 
@@ -49,4 +50,15 @@ The `Main` class serves as the entry point to the program, allowing users to int
 - Java SE Development Kit (JDK) installed on your system.
 - A Java compiler to compile the source code.
 - Standard Input/Output for user interaction.
+
+  ## Examples
+  ![image](https://github.com/ReutShilony/TwiterTowers/assets/164930346/b946be91-fb33-4881-81ca-d4109db629b0)
+  ![image](https://github.com/ReutShilony/TwiterTowers/assets/164930346/45f8ed5d-39a9-4bc1-ab16-5d90d0048e0b)
+
+  ![image](https://github.com/ReutShilony/TwiterTowers/assets/164930346/056d0ffd-6977-4031-bbf5-e07927f345fb)
+  ![image](https://github.com/ReutShilony/TwiterTowers/assets/164930346/3ce850a5-0b68-42c5-9d55-bc12796b89b5)
+
+
+
+
 
